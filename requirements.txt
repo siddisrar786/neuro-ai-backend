@@ -7,3 +7,4 @@ timm
 requests
 python-multipart
 pydantic
+numpy
