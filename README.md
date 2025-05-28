@@ -129,7 +129,7 @@ MIT License © 2025 [Isarar Siddique](https://github.com/siddisrar786)
 ## 📬 Contact
 
 For queries or collaboration:
-📧 isararsiddique@domain.com  
+📧 isararsiddique@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/isarar)
 
 ---
